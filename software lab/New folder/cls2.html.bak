@@ -1,0 +1,17 @@
+<<!DOCTYPE html>
+<html>
+  <head>
+        <title>Lab 2</title>
+  </head>
+  
+  <body>
+     <script>
+	       console.log("Hello world"); 
+	 
+	 
+	 
+	 
+	 </script>
+  </body>
+  
+</html>
